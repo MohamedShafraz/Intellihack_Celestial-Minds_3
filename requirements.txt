@@ -1,0 +1,21 @@
+# Core libraries
+numpy
+pandas
+
+# UUID for unique identifiers
+uuid
+
+# PDF processing and partitioning
+unstructured
+
+# LangChain for LLM integration and vector stores
+langchain  
+langchain-openai 
+langchain-core  
+langchain-community
+
+# FAISS for vector storage
+faiss-cpu  #
+
+# OpenAI for embeddings and LLM usage
+openai
